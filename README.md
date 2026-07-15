@@ -30,7 +30,6 @@
 - 🍃 MongoDB
 - 🐙 Git & GitHub
 - Java + DSA
-- 
 
 ---
 
