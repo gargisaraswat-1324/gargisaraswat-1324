@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rahul Sharma</h1>
+<h1 align="center">Hi 👋, I'm Gargi Saraswat</h1>
 <h3 align="center">🌸 Aspiring Full Stack Developer | UI Design Enthusiast | Creative Soul</h3>
 
 <p align="center">
