@@ -29,6 +29,8 @@
 - 🚂 Express.js
 - 🍃 MongoDB
 - 🐙 Git & GitHub
+- Java + DSA
+- 
 
 ---
 
@@ -55,13 +57,15 @@ When I'm away from my laptop, you'll probably find me:
 
 📚 Reading Novels
 
+ Travelling
+
 ---
 
 ## 🛠️ Languages & Tools
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,figma,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,bootstrap,java" />
 
 </p>
 
