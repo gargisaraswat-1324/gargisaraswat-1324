@@ -56,7 +56,7 @@ When I'm away from my laptop, you'll probably find me:
 
 📚 Reading Novels
 
- Travelling
+ 🌍Travelling
 
 ---
 
